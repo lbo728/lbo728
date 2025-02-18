@@ -67,7 +67,7 @@
 - _[TeoConf2024 스피커 후기](https://velog.io/@byungsker/TeoConf2024-%EC%8A%A4%ED%94%BC%EC%BB%A4-%ED%9B%84%EA%B8%B0-bloj8ivk)_
 - _[짧고 빠르게 Storybook 도입하기!](https://velog.io/@byungsker/%EB%82%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A7%A7%EA%B3%A0-%EB%B9%A0%EB%A5%B4%EA%B2%8C-Storybook-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0)_
 - _[Fluttrer Web에서 Javascript 유연하게 사용하기 (feat. JS interop의 A to Z)](https://velog.io/@byungsker/Fluttrer-Web%EC%97%90%EC%84%9C-Javascript-%EC%9C%A0%EC%97%B0%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)_
--  _[2024년, 프론트엔드 개발자로서의 1년 째를 맞은 연말 회고](https://velog.io/@byungsker/2024%EB%85%84-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C%EC%9D%98-1%EB%85%84-%EC%A7%B8%EB%A5%BC-%EB%A7%9E%EC%9D%80-%EC%97%B0%EB%A7%90-%ED%9A%8C%EA%B3%A0)
+- _[2024년, 프론트엔드 개발자로서의 1년 째를 맞은 연말 회고](https://velog.io/@byungsker/2024%EB%85%84-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C%EC%9D%98-1%EB%85%84-%EC%A7%B8%EB%A5%BC-%EB%A7%9E%EC%9D%80-%EC%97%B0%EB%A7%90-%ED%9A%8C%EA%B3%A0)_
 
 > _👉🏻 [더 많은 기술 블로그](https://velog.io/@byungsker/posts)은 여기서 보실 수 있어요!_ <br>
 > _👉🏻 매일 [짧은 글](https://www.linkedin.com/in/byungwoo-lee-98a253200/)을 작성하고 있어요!_
