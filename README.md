@@ -36,7 +36,11 @@
   <tr>
     <td align="center">
       <a href="https://docs.google.com/presentation/d/12GWk3F3V3TBFT_LR4hTOidEg6GQSD7FpvMjac4h8AH8/edit#slide=id.g32969f07a4b_1_0">
-        <strong>글또 프론트엔드 모바일 반상회</strong>
+        <strong>
+          글또 프론트엔드
+          <br>
+          모바일 반상회
+        </strong>
       </a>
     </td>
     <td align="center">
